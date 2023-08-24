@@ -1,5 +1,3 @@
-Chapter 5: Accountability and Responsibility
-============================================
 
 As artificial intelligence (AI) becomes more prevalent in our daily lives, questions about accountability and responsibility arise. Who is responsible when an AI system makes a mistake or causes harm? How can we ensure that AI systems are held accountable for their actions? In this chapter, we will explore the concepts of legal liability, responsibility, and algorithmic accountability.
 

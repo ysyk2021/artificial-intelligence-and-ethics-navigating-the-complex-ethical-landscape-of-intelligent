@@ -1,4 +1,3 @@
-# Chapter 6: Impacts on Society and Humanity
 
 As artificial intelligence (AI) continues to progress, it is important to consider its impacts on society and humanity. In this chapter, we will explore two key areas of concern: employment and economic implications, as well as social and psychological impacts.
 

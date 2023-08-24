@@ -1,5 +1,3 @@
-Types of Bias in AI
-=======================================================
 
 As artificial intelligence (AI) continues to play an increasingly important role in various industries, including healthcare, finance, and education, it is essential to address the issue of bias. While AI has the potential to improve efficiency and accuracy in decision-making processes, it can also perpetuate and amplify biases that are present in the data used to train these algorithms. In this chapter, we will explore the different types of bias that can occur in AI systems.
 

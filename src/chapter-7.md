@@ -1,5 +1,3 @@
-Chapter 7: Governance and Regulation
-====================================
 
 The development and use of AI requires governance and regulation to ensure that these technologies are deployed in a responsible and sustainable manner. In this chapter, we will explore international and national policies and guidelines, as well as self-regulation and industry standards.
 

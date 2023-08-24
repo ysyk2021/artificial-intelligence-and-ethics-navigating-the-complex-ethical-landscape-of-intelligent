@@ -1,5 +1,3 @@
-Self-regulation and Industry Standards
-============================================================================
 
 As artificial intelligence (AI) becomes more prevalent in our society, it is important to consider how it should be governed and regulated. While government policies and guidelines are important, there is also a growing need for self-regulation and industry standards in the development and deployment of AI systems. In this chapter, we will explore the concept of self-regulation and industry standards.
 

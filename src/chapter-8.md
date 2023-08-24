@@ -1,5 +1,3 @@
-Chapter 8: Future of AI Ethics
-==============================
 
 Artificial Intelligence (AI) is a rapidly evolving field that has the potential to transform various industries, including healthcare, finance, and education. As AI continues to grow and develop, it is important to consider its ethical implications, particularly as it relates to issues such as bias, privacy, and accountability. In this chapter, we will explore the emerging trends and future prospects for AI ethics.
 

@@ -1,5 +1,3 @@
-Chapter 2: Ethical Frameworks and Principles
-============================================
 
 As AI becomes increasingly prevalent in our lives, it is important to develop ethical frameworks and principles to guide its development and use. In this chapter, we will explore some of the key ethical theories and approaches, as well as AI-specific ethical principles.
 

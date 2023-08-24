@@ -1,5 +1,3 @@
-Legal Liability and Responsibility
-================================================================================
 
 As artificial intelligence (AI) becomes more integrated into our daily lives, questions arise regarding who is legally liable and responsible for the actions and decisions made by AI systems. In this chapter, we will explore the concept of legal liability and responsibility in relation to AI.
 

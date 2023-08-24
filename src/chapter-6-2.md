@@ -1,4 +1,3 @@
-# Social and Psychological Impacts
 
 The rise of artificial intelligence (AI) has brought about significant social and psychological impacts. While AI has the potential to improve our lives in many ways, there are also concerns about its impact on human relationships and identity.
 

@@ -1,5 +1,3 @@
-International and National Policies and Guidelines
-========================================================================================
 
 As artificial intelligence (AI) becomes more integrated into our society, there is a growing need for governance and regulation of its development and deployment. Governments around the world are beginning to establish policies and guidelines for the responsible use of AI. In this chapter, we will explore international and national policies and guidelines for AI governance and regulation.
 

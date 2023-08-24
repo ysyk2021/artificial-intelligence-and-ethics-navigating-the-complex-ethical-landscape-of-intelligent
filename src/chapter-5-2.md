@@ -1,5 +1,3 @@
-Algorithmic Accountability
-========================================================================
 
 As artificial intelligence (AI) becomes more integrated into our daily lives, it is important to consider who is accountable and responsible for the actions and decisions made by AI systems. In this chapter, we will explore the concept of algorithmic accountability and its implications for the development and deployment of AI.
 

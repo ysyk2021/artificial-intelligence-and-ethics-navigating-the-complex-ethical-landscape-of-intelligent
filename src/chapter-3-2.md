@@ -1,5 +1,3 @@
-Techniques for Mitigating Bias
-==================================================================
 
 As the role of artificial intelligence (AI) in society continues to expand, it is increasingly important to address issues related to bias and fairness in these systems. AI algorithms can be susceptible to biases that are present in the data used to train them, which can lead to unfair or discriminatory outcomes. In this chapter, we will explore the techniques for mitigating bias in AI systems.
 

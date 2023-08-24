@@ -1,5 +1,3 @@
-Chapter 3: Bias and Fairness in AI
-==================================
 
 AI has the potential to revolutionize many aspects of our lives, but it is important to ensure that these technologies are free from bias and discrimination. In this chapter, we will explore the types of bias in AI and techniques for mitigating this bias.
 
