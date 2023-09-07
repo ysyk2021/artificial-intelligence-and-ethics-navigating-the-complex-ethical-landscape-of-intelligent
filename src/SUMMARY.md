@@ -24,3 +24,4 @@
 - [Chapter 8: Future of AI Ethics](chapter-8.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
